@@ -65,6 +65,7 @@ endmodule
 ## RTL FOR NAND ![image](https://user-images.githubusercontent.com/123470785/214344822-b443edee-f040-41e8-90ab-10ae49bf8791.png)
 FOR NOR ![image](https://user-images.githubusercontent.com/123470785/214345105-928992f9-cca2-4f47-b58c-8b44a6ea292f.png)
 ## Timing Diagram FOR NAND ![image](https://user-images.githubusercontent.com/123470785/214345368-9f9d1b67-1387-4696-9882-22de0925401b.png)
-FOR NOR ![image](https://user-images.githubusercontent.com/123470785/214345574-c81b6138-4244-40af-8bf3-aa13399349a5.png)
+FOR NOR 
+![image](https://user-images.githubusercontent.com/123470785/214345574-c81b6138-4244-40af-8bf3-aa13399349a5.png)
 ## Result:
 Thus the given logic functions are implemented using NAND and NOR gates and their operations are verified using Verilog programming.
