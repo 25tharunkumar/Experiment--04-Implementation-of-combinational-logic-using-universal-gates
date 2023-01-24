@@ -62,7 +62,7 @@ endmodule
 ## RTL realization
 
 ## Output:
-## RTL FOR NAND
+## RTL FOR NAND ![image](https://user-images.githubusercontent.com/123470785/214344822-b443edee-f040-41e8-90ab-10ae49bf8791.png)
 FOR NOR
 ## Timing Diagram
 ## Result:
