@@ -68,6 +68,7 @@ FOR NOR ![image](https://user-images.githubusercontent.com/123470785/214345105-9
 FOR NOR 
 ![image](https://user-images.githubusercontent.com/123470785/214345574-c81b6138-4244-40af-8bf3-aa13399349a5.png)
 ## Result:FOR NAND ![image](https://user-images.githubusercontent.com/123470785/214346012-7c77b780-b81e-462f-a5b1-769339ea79fc.png)
+FOR NOR
 ![image](https://user-images.githubusercontent.com/123470785/214346425-988f69ea-2c0e-4970-9c3c-c2a9b2dee8e8.png)
 
 Thus the given logic functions are implemented using NAND and NOR gates and their operations are verified using Verilog programming.
