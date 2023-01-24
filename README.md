@@ -28,8 +28,12 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')'
 
 ## Logic Diagram
 ## Procedure
-## Program:
-/*
+Step 1: Create a project with required entities.
+Step 2: Create a module along with respective file name.
+Step 3: Run the respective programs for the given boolean equations.
+Step 4: Run the module and get the respective RTL outputs.
+Step 5: Create university program(VWF) for getting timing diagram.
+Step 6: Give the respective inputs for timing diagram and obtain the results.
 Program to implement the given logic function using NAND and NOR gates and to verify its operations in quartus using Verilog programming.
 Developed by: Tharun kumar . M
 RegisterNumber: 22002150 
@@ -58,7 +62,8 @@ endmodule
 ## RTL realization
 
 ## Output:
-## RTL
+## RTL FOR NAND
+FOR NOR
 ## Timing Diagram
 ## Result:
 Thus the given logic functions are implemented using NAND and NOR gates and their operations are verified using Verilog programming.
