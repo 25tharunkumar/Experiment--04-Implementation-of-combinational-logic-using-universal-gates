@@ -67,7 +67,7 @@ FOR NOR ![image](https://user-images.githubusercontent.com/123470785/214345105-9
 ## Timing Diagram FOR NAND ![image](https://user-images.githubusercontent.com/123470785/214345368-9f9d1b67-1387-4696-9882-22de0925401b.png)
 FOR NOR 
 ![image](https://user-images.githubusercontent.com/123470785/214345574-c81b6138-4244-40af-8bf3-aa13399349a5.png)
-Timing:FOR NAND ![image](https://user-images.githubusercontent.com/123470785/214346012-7c77b780-b81e-462f-a5b1-769339ea79fc.png)
+Truth Table:FOR NAND ![image](https://user-images.githubusercontent.com/123470785/214346012-7c77b780-b81e-462f-a5b1-769339ea79fc.png)
 FOR NOR
 ![image](https://user-images.githubusercontent.com/123470785/214346425-988f69ea-2c0e-4970-9c3c-c2a9b2dee8e8.png)
 ## Result:
